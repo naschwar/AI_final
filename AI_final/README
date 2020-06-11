@@ -1,0 +1,6 @@
+CSC 480 Final Project: X Æ X-12 TAXI MAN
+By Mica Geldert && Nicole Schwartz
+
+Usage: python3 taxi.py [-l] [-r]
+-l : load previous q-table located in "qtable.csv" (must be in same directory)
+-r : render one episode
